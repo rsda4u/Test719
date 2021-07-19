@@ -1,0 +1,7 @@
+./submodels
+battery_1
+&SCBATT_1 EV_Library
+vehicle_1
+&VEHICLESC_1 EV_Library
+motor_1
+&MOTORSC_1 EV_Library
